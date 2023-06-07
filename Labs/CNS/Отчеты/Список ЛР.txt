@@ -1,0 +1,18 @@
+(cmd Windows)
+1. Инструменты для базового исследования сети
+
+(Wireshark)
+2. Знакомство с Wireshark.
+3. Продвинутые техники работы с Wireshark.
+
+(CPT)
+4. VPN. IPSec.
+5. Защита L2 коммутатора
+6. STP
+7. Suricata
+
+(CPT - реальное железо)
+8.1. SNMP
+8.2. IP SLA ICMP Echo
+8.3. Syslog, NTP
+
